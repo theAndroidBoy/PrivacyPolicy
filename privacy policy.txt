@@ -1,0 +1,3 @@
+Privacy policy for App "WiFi Signal Strength Compare"
+-This app does not use or send location data anywhere.
+-Location data is only required by the android system to Access wifi state.
