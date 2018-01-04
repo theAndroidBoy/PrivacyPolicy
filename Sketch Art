@@ -1,0 +1,13 @@
+Our App uses three permissions. purpose of these permissions is given below.
+READ_EXTERNAL_STORAGE:
+                       This permission is required to allow you to select photo from storage and apply sketch effect on it.
+                      
+WRITE_EXTERNAL_STORAGE:                      
+                      This permission is required in case you want to save the created photo to storage.
+READ_PHONE_STATE:
+                      This permission is required to allow you to select photo from storage and apply sketch effect on it.
+                      
+                      
+                      
+ Privacy Policy:
+                     We do not save any photo on any server ,all the photos create with our app are stored on your local device.
